@@ -7,7 +7,7 @@ Some LoRa projects w/ ClusterDuck-Protocol
 
 MamaDuck got data from AlienDuck(ArduinoLora)...
 <br>
-<img src="pic/MamaDuck_ArduinoLora.png" width=600/>
+<img src="pic/MamaDuck_AndroidLora.png" width=600/>
 <br><br>
 MamaDuck got data from DuckLink...
 <br>
