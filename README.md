@@ -6,7 +6,8 @@ Some LoRa projects w/ ClusterDuck-Protocol
 <br><br>
 
 ## ESP32 TTGO Lora32 w/ ClusterDuck
-MamaDuck got data from AlienDuck(ArduinoLora)...
+MamaDuck got data from AlienDuck(ArduinoLora)...<br>
+<img src="pic/MamaDuck_AndroidLora.png" width=400/>
 <br>
 <img src="pic/MamaDuck_AndroidLora.png" width=600/>
 <br><br>
