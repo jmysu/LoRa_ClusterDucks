@@ -6,12 +6,12 @@ Some LoRa projects w/ ClusterDuck-Protocol
 <br>
 <br><br>
 <img src="pic/MamaDuck_TTGO-LoRa32.png" width=320/> <br>
-ESP32 TTGO Lora32 w/ ClusterDuck
+ESP32 TTGO Lora32 w/ ClusterDuck <br>
 <br><br>
-MamaDuck got data from AlienDuck(ArduinoLora)...
+MamaDuck got data from AlienDuck(ArduinoLora)... <br>
 <img src="pic/MamaDuck_AndroidLora.png" width=600/> <br>
 <br>
-MamaDuck got data from DuckLink...
+MamaDuck got data from DuckLink...<br>
 <br>
 <img src="pic/MamaDuck_DuckLink.png" width=600/>
 <br><br>
