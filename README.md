@@ -2,13 +2,13 @@
 Some LoRa projects w/ ClusterDuck-Protocol
 
 ## How Does Ducks Work? <br>
-<img src="pic/HowDoesDucksWork.jpg.jpg" width=400/><img src="pic/MamaDuck_TTGO-LoRa32.png" width=320/>
+<img src="pic/HowDoesDucksWork.jpg" width=400/><img src="pic/MamaDuck_TTGO-LoRa32.png" width=320/>
 <br><br>
 
 ## ESP32 TTGO Lora32 w/ ClusterDuck
 MamaDuck got data from AlienDuck(ArduinoLora)...
 <img src="pic/MamaDuck_AndroidLora.png" width=600/>
-<br><br>
+<br>
 MamaDuck got data from DuckLink...
 <br>
 <img src="pic/MamaDuck_DuckLink.png" width=600/>
