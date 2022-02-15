@@ -2,6 +2,7 @@
 Some LoRa projects w/ ClusterDuck-Protocol
 
 ## How Does Ducks Work? <br>
+(鴨子們怎麼幹活？)
 <img src="pic/HowDoesDucksWork.jpg" width=400/><img src="pic/MamaDuck_TTGO-LoRa32.png" width=320/>
 <br><br>
 
